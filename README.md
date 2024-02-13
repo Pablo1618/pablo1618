@@ -1,12 +1,12 @@
-<h2 align="center">💫 About Me:</h2>
+<h1 align="center">💫 About Me:</h1>
 
 ###
 
-<h4 align="center">My name is Paweł Wawrzyński and I'm Computer Science student at Gdańsk University of Technology.</h4>
+<h3 align="center">My name is Paweł Wawrzyński and I'm Computer Science student at Gdańsk University of Technology.</h3>
 
 ###
 
-<h2 align="center">💻 Tech Stack:</h2>
+<h1 align="center">💻 Tech Stack:</h1>
 
 ###
 
