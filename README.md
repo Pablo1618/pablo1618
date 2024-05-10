@@ -62,7 +62,21 @@
 
 ###
 
-<h3 align="center">My newest JavaScript game:</h3>
+<h3 align="center">Some of my favourite projects:</h3>
+
+###
+
+<h4 align="center">MACD indicator with auto buy/sell algorithm in Python:</h4>
+
+###
+
+<div align="center">
+  <img height="300" src="https://i.ibb.co/XtXHbFS/Figure-1.png"  />
+</div>
+
+###
+
+<h4 align="center">My newest game in JavaScript:</h4>
 
 ###
 
