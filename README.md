@@ -67,7 +67,7 @@
 ###
 
 <div align="center">
-  <img height="70" src="https://atomsurvival.com/images/logo-transparent.png"  />
+  <img height="300" src="https://i.ibb.co/w7p2MJD/Zrzut-ekranu-2024-05-10-224335.png"  />
 </div>
 
 ###
