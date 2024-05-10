@@ -57,17 +57,22 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pablo1618&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=apprentice&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pablo1618&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=apprentice&hide_border=true&order=2"
+  height="150" alt="languages graph"  style="border: 10px ridge #707070; border-radius: 10px;"  />
 </div>
 
 ###
 
-<h4 align="center">My newest JavaScript game:</h4>
+<h3 align="center">My newest JavaScript game:</h3>
 
 ###
+
+<!-- <div align="center">
+  <img height="300" src="https://i.ibb.co/w7p2MJD/Zrzut-ekranu-2024-05-10-224335.png"  />
+</div> -->
 
 <div align="center">
-  <img height="300" src="https://i.ibb.co/w7p2MJD/Zrzut-ekranu-2024-05-10-224335.png"  />
-</div>
+    <img height="300" src="https://i.ibb.co/w7p2MJD/Zrzut-ekranu-2024-05-10-224335.png" style="border: 15px ridge #ffb038; border-radius: 10px;" />
+  </div>
 
 ###
