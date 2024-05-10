@@ -75,4 +75,22 @@
     <img height="300" src="https://i.ibb.co/w7p2MJD/Zrzut-ekranu-2024-05-10-224335.png" style="border: 15px ridge #ffb038; border-radius: 10px;" />
   </div>
 
+<div align="center">
+    <svg fill="none" viewBox="0 0 640 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+        <style>
+          foreignObject {
+            border: 15px ridge #ffb038;
+            border-radius: 15px;
+          }
+        </style>
+        <foreignObject width="100%" height="100%">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; justify-content: center; align-items: center; height: 300px;">
+            <img src="https://i.ibb.co/w7p2MJD/Zrzut-ekranu-2024-05-10-224335.png" style="max-height: 100%; max-width: 100%;" />
+          </div>
+        </foreignObject>
+      </svg>
+</div>
+  
+  
+
 ###
