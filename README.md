@@ -1,4 +1,4 @@
-<h4 align="center">💫 About Me:</h4>
+<h3 align="center">💫 About Me:</h3>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">💻 Tech Stack:</h4>
+<h3 align="center">💻 Tech Stack:</h3>
 
 ###
 
@@ -28,15 +28,15 @@
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="40" alt="xamarin logo"  />
-  <img width="12" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
 </div>
 
@@ -44,24 +44,20 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
+  <img width="25" />
   <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="40" alt="fedora logo"  />
-  <img width="12" />
+  <img width="25" />
   <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" alt="apachemaven logo"  />
-  <img width="12" />
+  <img width="25" />
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Pablo1618/Pablo1618/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pablo1618&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pablo1618&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=apprentice&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
