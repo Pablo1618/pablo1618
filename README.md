@@ -91,3 +91,13 @@
 </div>
 
 ###
+
+<h4 align="center">Approximation of elevation profile in Python:</h4>
+
+###
+
+<div align="center">
+  <img height="365" src="https://i.ibb.co/16bXTkh/Zrzut-ekranu-2024-05-14-173915.png"  />
+</div>
+
+###
