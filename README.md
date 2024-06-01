@@ -97,7 +97,13 @@
 ###
 
 <div align="center">
-  <img height="365" src="https://i.ibb.co/16bXTkh/Zrzut-ekranu-2024-05-14-173915.png"  />
+  <img height="350" src="https://i.ibb.co/MCTc8jj/Figure-9.png"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="350" src="https://i.ibb.co/7W6yqTZ/Figure-2.png"  />
 </div>
 
 ###
