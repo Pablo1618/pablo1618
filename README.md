@@ -71,7 +71,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://i.ibb.co/XtXHbFS/Figure-1.png"  />
+  <img height="350" src="https://i.imgur.com/fIcc5GE.png"  />
 </div>
 
 ###
@@ -81,13 +81,13 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://i.ibb.co/w7p2MJD/Zrzut-ekranu-2024-05-10-224335.png"  />
+  <img height="300" src="https://i.imgur.com/7OlG0TM.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="300" src="https://i.ibb.co/C9MdbNG/Zrzut-ekranu-2024-01-13-121640.png"  />
+  <img height="350" src="https://i.imgur.com/vooYMa4.png"  />
 </div>
 
 ###
@@ -97,13 +97,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://i.ibb.co/MCTc8jj/Figure-9.png"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="350" src="https://i.ibb.co/7W6yqTZ/Figure-2.png"  />
+  <img height="350" src="https://i.imgur.com/KKyDgbm.png"  />
 </div>
 
 ###
