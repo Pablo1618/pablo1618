@@ -1,14 +1,9 @@
-<h3 align="center">💫 About Me:</h3>
 
-###
+<h3 align="center">💫 About Me:</h3>
 
 <h4 align="center">My name is Paweł Wawrzyński and I'm Computer Science student at Gdańsk University of Technology.</h4>
 
-###
-
 <h3 align="center">💻 Tech Stack:</h3>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -23,8 +18,6 @@
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-
-###
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
@@ -46,11 +39,8 @@
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pablo1618&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pablo1618&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Pablo1618&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
@@ -58,40 +48,29 @@
 
 <h3 align="center">Some of my favourite projects:</h3>
 
-###
-
 <h4 align="center">MACD indicator with auto buy/sell algorithm in Python:</h4>
-
-###
-
 <div align="center">
   <img height="350" src="https://i.imgur.com/fIcc5GE.png"  />
 </div>
 
-###
-
-<h4 align="center">My newest game in JavaScript:</h4>
-
-###
-
+<h4 align="center">Oceania Virtual Walk - Project for Institute of Oceanology</h4>
 <div align="center">
-  <img height="300" src="https://i.imgur.com/7OlG0TM.png"  />
+  <a href="https://pablo1618.github.io/Oceania/" target="_blank">https://pablo1618.github.io/Oceania/</a>
+</div>
+<div align="center">
+  <img width="60%" src="https://i.imgur.com/MCYzYG4.png" />
+</div>
+<div align="center">
+  <img width="60%" src="https://i.imgur.com/vw7Zk1w.png" />
 </div>
 
-###
-
+<h4 align="center">IO Javascript Game - Atomsurvival.com</h4>
 <div align="center">
-  <img height="350" src="https://i.imgur.com/vooYMa4.png"  />
+  <a href="https://atomsurvival.com/" target="_blank">https://atomsurvival.com/</a>
 </div>
-
-###
-
-<h4 align="center">Approximation of elevation profile in Python:</h4>
-
-###
-
 <div align="center">
-  <img height="350" src="https://i.imgur.com/KKyDgbm.png"  />
+  <img width="60%" src="https://i.imgur.com/7OlG0TM.png"  />
 </div>
-
-###
+<div align="center">
+  <img width="60%" src="https://i.imgur.com/vooYMa4.png"  />
+</div>
