@@ -1,4 +1,4 @@
-
+##
 <h3 align="center">💫 About Me:</h3>
 
 <h4 align="center">My name is Paweł Wawrzyński and I'm Computer Science student at Gdańsk University of Technology.</h4>
@@ -39,12 +39,12 @@
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
 </div>
 
+##
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pablo1618&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Pablo1618&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
 
 <h3 align="center">Some of my favourite projects:</h3>
 
@@ -55,7 +55,7 @@
 
 <h4 align="center">Oceania Virtual Walk - Project for Institute of Oceanology</h4>
 <div align="center">
-  <a href="https://pablo1618.github.io/Oceania/" target="_blank">https://pablo1618.github.io/Oceania/</a>
+  <a href="https://pablo1618.github.io/Oceania/" target="_blank">https://pablo1618.github.io/Oceania/</a><br></br>
 </div>
 <div align="center">
   <img width="60%" src="https://i.imgur.com/MCYzYG4.png" />
@@ -66,7 +66,7 @@
 
 <h4 align="center">IO Javascript Game - Atomsurvival.com</h4>
 <div align="center">
-  <a href="https://atomsurvival.com/" target="_blank">https://atomsurvival.com/</a>
+  <a href="https://atomsurvival.com/" target="_blank">https://atomsurvival.com/</a><br></br>
 </div>
 <div align="center">
   <img width="60%" src="https://i.imgur.com/7OlG0TM.png"  />
