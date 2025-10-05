@@ -16,13 +16,27 @@
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="11" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
+  <img width="11" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwMilleAcaXi-_WC8RbF50_DfoTBPdn1nlzA&s" height="40" alt="jee logo"  />
+  <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
+  <img width="11" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpdxqG8yYuMaUBCShYM7kTWmBRozlf4SSyxA&s" height="40" alt="playwright logo"  />
 </div>
+
+###
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="10" />
@@ -49,6 +63,13 @@
 ##
 
 <h3 align="center">Some of my favourite projects:</h3>
+
+<h4 align="center">EstateScout - Real Estate Analysis Web Portal</h4>
+<div align="center">
+  <img width="70%" src="https://i.imgur.com/eFvJDLJ.png"  />
+</div>
+
+##
 
 <h4 align="center">MACD indicator with auto buy/sell algorithm in Python</h4>
 <div align="center">
