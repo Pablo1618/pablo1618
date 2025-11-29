@@ -66,7 +66,7 @@
 
 <h4 align="center">EstateScout - Real Estate Analysis Web Portal</h4>
 <div align="center">
-  <img width="70%" src="https://i.imgur.com/eFvJDLJ.png"  />
+  <img width="70%" src="https://i.imgur.com/hKArlOo.png"  />
 </div>
 
 ##
